@@ -1,16 +1,16 @@
 # Bitcoin docker image
 
-[![Docker Repository on Quay](https://quay.io/repository/coinmetrics/fullnode-bitcoin/status "Docker Repository on Quay")](https://quay.io/repository/coinmetrics/fullnode-bitcoin)
+This is unofficial Bitcoin docker image.
+
+It is being used internally at Coin Metrics, and is published in the hope it will be useful, but without any warranty. No support is available. You are using it at your own risk.
 
 ## Using image
+
+[![Docker Repository on Quay](https://quay.io/repository/coinmetrics/fullnode-bitcoin/status "Docker Repository on Quay")](https://quay.io/repository/coinmetrics/fullnode-bitcoin)
 
 ```
 docker pull quay.io/coinmetrics/fullnode-bitcoin:<version>
 ```
-
-## Support
-
-This image is being used internally at Coin Metrics. No support is available. You are using it at your own risk.
 
 ## Security
 
